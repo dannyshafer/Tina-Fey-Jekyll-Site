@@ -1,0 +1,12 @@
+# Site settings
+title: Everybody Loves Tina Fey!
+email: dan@theman.com
+description: > # this means to ignore newlines until "baseurl:"
+  One of the greatest comedians of the 21st century is Tina Fey. She created such awesome shows as 30 Rock and Unbreakable Kimmy Schmidt.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: HouseShafer	
+github_username:  dannyshafer
+
+# Build settings
+markdown: kramdown
